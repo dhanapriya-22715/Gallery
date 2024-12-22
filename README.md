@@ -1,4 +1,3 @@
-![Screenshot (66)](https://github.com/user-attachments/assets/ad065248-0fcb-4765-b71b-f2e9036b22bd)![Screenshot (69)](https://github.com/user-attachments/assets/91b5980e-55d4-4f0d-9bcf-390dd80565ae)# Ex.08 Design of Interactive Image Gallery
 # Date:22-11-2024
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -129,6 +128,8 @@ body{
 ![Screenshot (62)](https://github.com/user-attachments/assets/13d17c96-9a9d-4c5f-a9f6-85dd8c6762c9)
 ![Screenshot (63)](https://github.com/user-attachments/assets/40936cd3-1b13-46b1-9c89-dd165095083a)
 ![Screenshot (64)](https://github.com/user-attachments/assets/4a5f965e-396c-4e7d-8097-dbed9c13f06b)
+![Screenshot (65)](https://github.com/user-attachments/assets/4f672529-dbe3-46ff-a33a-96d9000c37fc)
+![Screenshot (66)](https://github.com/user-attachments/assets/72397256-3bb0-4bcf-b6aa-12d3796a3376)
 ![Screenshot (67)](https://github.com/user-attachments/assets/fa295a87-888f-413d-abc2-94ffb302b6ec)
 ![Screenshot (68)](https://github.com/user-attachments/assets/8dbc3d13-756f-485f-8967-eb8cffe16e5d)
 ![Screenshot (69)](https://github.com/user-attachments/assets/71e285be-b100-4949-84c0-e039ecebc11d)
